@@ -1,0 +1,224 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: inter;
+}
+
+/* NAVIGATION SECTION  */
+#logoSection{
+    width: 100%;
+    background-color: #692340;
+
+}
+.logo{
+    float: left;
+    padding: 10px ;
+    margin-left: 50px;
+}
+.sideicones {
+    height: 25px;
+    margin-top: 20PX;
+    margin-right:  100px;
+    float: right;   
+}
+#menuSection{
+    width: 100%;
+    height: 60px;
+    margin: 0 auto;
+}
+.mainNavMenu{
+    width: 1000px;
+    margin: 0 auto;
+    list-style: none;
+    font-family: inter;
+    font-weight: bold;
+}
+.mainNavMenu li{
+    float: left;
+    height: 60px;
+    line-height: 60px;
+    margin-left: 100px;
+}
+.mainNavMenu li a{
+    font-size: 15px;
+    text-transform: capitalize;
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+
+/* BODY SECTION  */
+/* #title1{
+    font-size: 2.5em;
+    width:100%;
+    text-align: center;
+    padding-top: 15px;
+    height: 70px;
+    color: white;
+    background-color: #3E917E;
+} */
+#bodySection_1{
+    height: 600px;
+}
+.bodyBox1{
+    float:left;
+    padding:90px;
+    margin-left: 50px;
+}
+.bodyBox2{
+    float: left;
+    padding:90px;
+    margin-left: 30px;
+    font-family: inter;
+}
+.bodyBox3{
+    padding:90px;
+    float:right;
+    margin-right: 50px;
+}
+.bag{
+    border-radius: 30px;
+    /* border:5px solid #3E917E; */
+}
+.bag:hover{
+    transform: scale(1.1,1.1);
+}
+.text1{
+    text-align: center;
+    color: #692340;
+    font-size: 20px;
+}
+.text2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 6px;
+}
+
+/* BODY SECTION  */
+#bodySection_2{
+    background-color: #FCDAE8;
+    clear: both;
+    height: 900px;
+}
+#title2{
+    font-size: 2.5em;
+    width:100%;
+    text-align: center;
+    padding-top: 15px;
+    height: 70px;
+    color: #692340;
+}
+.sideimg{
+    float:left;
+    margin-left: 170px;
+}
+.hbag1{
+    float: left;
+    margin-left: 150px;
+    font-family: inter;
+}
+.text4{
+    font-size: 20px;
+    color: #692340;
+    line-height: 28px;
+}
+.hbag1 .text4{
+    position: relative;
+    margin-top: 10px;
+}
+.hbag1 .rating{
+    margin-left: 130px;
+    position:absolute;
+    margin-top: 10px;
+}
+
+/* FOOTER SECTION  */
+
+#footerSection1{
+    width: 100%;
+    height: 616px;
+    background-color: rgb(0, 0, 0);
+    font-family: inter;
+    font-weight: bold;
+}
+.lockxy{
+    margin-top: 13px;
+    margin-left: 585px;
+}
+.ficons1{
+    float: left;
+}
+.truck{
+    margin-left: 250px;
+    margin-top: 43px;
+}
+.truckText{
+    margin-left: 228px;
+    font-size: larger;
+    color: #CC487F;
+}
+.truckText1{
+    margin-left: 155px;
+    color: #FBBBD5;
+}
+.ficons2{
+    float: left;
+}
+.payment{
+    margin-left: 260px;
+    margin-top: 43px;
+}
+.paymentText{
+    margin-left: 228px;
+    font-size: larger;
+    color: #CC487F;
+}
+.paymentText1{
+    margin-left: 155px;
+    color: #FBBBD5;
+}
+.ficons3{
+    float: left;
+}
+.customer{
+    margin-left: 250px;
+    margin-top: 43px;
+}
+.customerText{
+    margin-left: 200px;
+    font-size: larger;
+    color: #CC487F;
+}
+.customerText1{
+    margin-left: 180px;
+    color: #FBBBD5;
+}
+.quick{
+    float: left;
+}
+.quick1{
+    font-size: larger;
+    margin-left: 670px;
+    margin-top: 28px;
+    color: #CC487F;
+}
+.quick2{
+    margin-left: 490px;
+    margin-top: 28px;
+    color: #FBBBD5;
+}
+.follow1{
+    font-size: larger;
+    color: #CC487F;
+    margin-left: 680px;
+    margin-top: 25px;
+}
+.face{
+    margin-left: 664;
+    margin-top: 18px;
+}
+.copy{
+    background-color: #692340;
+    height: 55px;
+    color: white;
+}
